@@ -11,3 +11,9 @@ Demo for Register, Login and Dashboard!
 📷 Screen shot
 
 # Register
+
+![Register image](image.png)
+
+# Login
+
+![Login image](image-1.png)
